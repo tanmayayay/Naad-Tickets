@@ -1,0 +1,1 @@
+{"dependencies":{"qrcode.react":"^4.2.0","react":"^19.2.8","react-dom":"^19.2.8","react-router-dom":"^7.18.4"},"devDependencies":{"@vitejs/plugin-react":"^6.1.1","vite":"^8.3.0"},"name":"naad-tickets","private":true,"scripts":{"build":"vite build","dev":"vite","preview":"vite preview"},"type":"module","version":"1.0.0"}
